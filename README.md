@@ -1,6 +1,8 @@
+# docs.musicfox.io
+
 This is a [Next.js](https://nextjs.org) application hosted on the Tincre Vercel project. 
 
-It does a permanent 308 redirect for all slugs after docs.musicfox.io/ to the [b00st.com community site](https://community.b00st.com).
+It does a **permanent 308 redirect for all slugs** after docs.musicfox.io/ to the [b00st.com community site](https://community.b00st.com).
 
 ## Getting started 
 
